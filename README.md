@@ -32,7 +32,7 @@ The application includes the ability to:
 
 ## Building the Application
 
-To build this UEFI application using the EDK II environment.
+To build this UEFI application use the EDK II build environment.
 
 
 ## This code is experimental and should be used with caution. 
