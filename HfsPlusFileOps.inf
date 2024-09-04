@@ -33,7 +33,7 @@
 #  This file describes the build configuration for the HFS+ file operations
 #
 # @AUTHOR
-# Created by Cliff Sekel  for The PureDarwin Project github.com/PureDarwin
+# Created by Cliff Sekel for The PureDarwin Project github.com/PureDarwin
 #
 
 [Defines]
